@@ -1,5 +1,4 @@
-# Test_Amazon
-1. Title: Testing Amazon website using selenium with java.
+# Test_Amazon 1. Title: Testing Amazon website using selenium with java.
 Project Description: I have created a web automation project using Selenium with Java and the TestNG framework to test the Amazon website. The project will test the following modules:
 
 •	Login - Verify whether the Amazon website allows users to log in with the correct username and password, we would need to test the login functionality on the website. It is important to ensure that the username and password are accurate and properly match the registered account details.
@@ -11,7 +10,9 @@ Project Description: I have created a web automation project using Selenium with
 •	Order Confirmation – Validate whether a purchased product has been successfully ordered on Amazon. It is important to ensure that the purchased product is listed in the order history with a status indicating that the order has been successfully processed.
 
 Identified bugs:
+
 •	A small bug has been identified where, occasionally, when users search for a product on Amazon without logging in to their account, the search result displayed may differ from the product that was searched for.
+
 •	Sometimes, the "Add to Cart" button may not function properly on Amazon, indicating a potential bug.
 
 
