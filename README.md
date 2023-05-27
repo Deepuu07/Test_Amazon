@@ -10,5 +10,6 @@ Identified bugs:
 •	A small bug has been identified where, occasionally, when users search for a product on Amazon without logging in to their account, the search result displayed may differ from the product that was searched for.
 •	Sometimes, the "Add to Cart" button may not function properly on Amazon, indicating a potential bug.
 
+
 Click the link to see the code: 
 https://github.com/Deepuu07/Test_Amazon/blob/main/src/test/java/project/Amazon_new.java
