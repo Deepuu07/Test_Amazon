@@ -11,7 +11,7 @@ Project Description: I have created a web automation project using Selenium with
 
 Identified bugs:
 
-•	A small bug has been identified where, occasionally, when users search for a product on Amazon without logging in to their account, the search result displayed may differ from the product that was searched for.
+•	A small bug has been identified where, occasionally, when users search for a product on Amazon with or without logging in to their account, the search result displayed may differ from the product that was searched for.
 
 •	Sometimes, the "Add to Cart" button may not function properly on Amazon, indicating a potential bug.
 
